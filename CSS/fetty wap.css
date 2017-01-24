@@ -87,6 +87,14 @@ p.body{
 
 }
 
-h3.section{
+h3.subtitle{
 	color:white;
+}
+
+h2.headings{
+     color: white;
+}
+
+h1.titles {
+    color: white; 
 }
